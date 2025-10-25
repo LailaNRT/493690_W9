@@ -9,7 +9,7 @@ Koordinat titik lain pada keliling lingkaran (px, py).
 
 ## Fungsi outputResults()
 Fungsi ini digunakan untuk menampilkan hasil perhitungan radius, diameter, keliling, dan luas ke layar. 
-Fungi tersebu:
+Fungi tersebut:
 Mengatur format angka menjadi 4 angka di belakang koma (setprecision(4)). Mencetak nilai radius.
 Mencetak diameter (yaitu 2 * r).
 Memanggil fungsi circumference(r) untuk keliling.
