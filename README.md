@@ -1,5 +1,5 @@
 # Program Perhitungan Lingkaran (C++)
-
+![Flowchart](flowchart_programperhitunganlingkaran.png)
 Program ini berfungsi untuk menghitung radius (jari-jari), diameter, keliling, dan luas sebuah lingkaran berdasarkan koordinat titik pusat (centroid) dan satu titik lain di keliling lingkaran yang dimasukkan oleh pengguna.
 
 ## Fungsi getCoordinates()
